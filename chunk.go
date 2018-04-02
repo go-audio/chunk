@@ -1,4 +1,4 @@
-package Reader
+package chunk
 
 import (
 	"encoding/binary"
